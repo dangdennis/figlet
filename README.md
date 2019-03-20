@@ -1,1 +1,1 @@
-# rs-figlet
+# figlet
